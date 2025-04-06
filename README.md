@@ -45,8 +45,8 @@ I'm a recent graduate in Electronics and Communication Engineering (2019–2023)
 ## 🎓 Education
 
 **Bachelor of Engineering in Electronics & Communication**  
-2019 – 2023 | CGPA: (add if available)  
-📍 [Your University Name], India
+2019 – 2023 | Vinayaka Mission University, Salem, Tamil Nadu, India  
+📍 CGPA: *(add if available)*
 
 ---
 
@@ -72,10 +72,11 @@ I'm a recent graduate in Electronics and Communication Engineering (2019–2023)
 
 ## 📫 Contact Me
 
-- 📧 Email: [your.email@example.com]  
-- 🌐 LinkedIn: [Your LinkedIn Profile]  
-- 🖥️ Portfolio Website: *Coming Soon...*
+- 📧 Email: [arunvijayakumar18@gmail.com](mailto:arunvijayakumar18@gmail.com)  
+- 🌐 LinkedIn: [linkedin.com/in/arun-vijayakumar2001](https://www.linkedin.com/in/arun-vijayakumar2001/)  
+- 🖥️ Portfolio Website: [https://arun-vijayakumar.netlify.app](https://arun-vijayakumar.netlify.app)
 
 ---
 
 > *“I build with code, think with circuits, and dream in embedded systems.”*
+
